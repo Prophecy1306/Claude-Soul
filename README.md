@@ -1,4 +1,8 @@
+<div align="center">
+
 # Humanizer Tools
+
+</div>
 
 A Claude Code skill that removes signs of AI-generated writing from text, making it sound more natural and human.
 
