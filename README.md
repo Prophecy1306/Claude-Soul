@@ -136,7 +136,11 @@ The skill also includes a final "obviously AI generated" audit pass and a second
 - [Wikipedia: Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing) - Primary source
 - [WikiProject AI Cleanup](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup) - Maintaining organization
 
-# Done✔️✔️
+## Why Applying This Matters
+
+> AI writing is usually more structured, neutral and polished while human writing tends to be slightly imperfect, more personal and sometimes uneven in flow.
+
+## Done✔️✔️
 
 <pre>
 
@@ -150,6 +154,6 @@ Thanks for checking out this.
 
 <div align="center">
 
-#  *❤️‍🔥 Happy Prompting 👨🏻‍💻*
+#  *🧑‍💻 Happy Prompting ✍️*
 
 </div>
