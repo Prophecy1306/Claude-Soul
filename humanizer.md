@@ -24,7 +24,7 @@ If you already have this repo cloned (or you downloaded `SKILL.md`), copy the sk
 
 ```bash
 mkdir -p ~/.Claude-Bot/skills/humanizer
-cp SKILL.md ~/.Claude-Bot/skills/humanizer/
+cp HUMANIZERSKILL.md ~/.Claude-Bot/skills/humanizer/
 ```
 
 ## Usage
