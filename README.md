@@ -62,5 +62,5 @@ New ideas, improvements, and experiments are always welcome.
 
 ## ✅ Build. Experiment. Iterate. ✅
 
-<img width="674" height="680" alt="image" src="https://github.com/user-attachments/assets/be46cdbe-2972-4bff-a9de-23618cd23aca" />
+<img width="1536" height="1024" alt="ChatGPT Image Mar 25, 2026, 03_10_41 AM" src="https://github.com/user-attachments/assets/f3214e96-ba3b-4575-96cc-0137ead05b6c" />
 
