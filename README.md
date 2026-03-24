@@ -60,4 +60,7 @@ New ideas, improvements, and experiments are always welcome.
 
 ---
 
-> Build. Experiment. Iterate.
+## ✅ Build. Experiment. Iterate. ✅
+
+<img width="674" height="680" alt="image" src="https://github.com/user-attachments/assets/be46cdbe-2972-4bff-a9de-23618cd23aca" />
+
